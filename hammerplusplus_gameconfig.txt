@@ -1,0 +1,107 @@
+"Configs"
+{
+	"Games"
+	{
+		"Half-Life 2: Deathmatch"
+		{
+			"GameDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2mp"
+			"Hammer"
+			{
+				"GameData0"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\hl2mp.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_deathmatch"
+				"BSP"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vbsp.exe"
+				"Vis"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vvis.exe"
+				"Light"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vrad.exe"
+				"GameExeDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer"
+				"MapDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcesdk_content\hl2mp\mapsrc"
+				"BSPDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2mp\maps"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+				"Previous"		"1"
+			}
+		}
+		"Half-Life 2"
+		{
+			"GameDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2"
+			"Hammer"
+			{
+				"GameData0"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\halflife2.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vbsp.exe"
+				"Vis"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vvis.exe"
+				"Light"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vrad.exe"
+				"GameExeDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer"
+				"MapDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcesdk_content\hl2\mapsrc"
+				"BSPDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\maps"
+				"PrefabDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\Prefabs"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+				"Previous"		"0"
+			}
+		}
+		"SourceTest"
+		{
+			"GameDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest"
+			"Hammer"
+			{
+				"GameData0"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\halflife2.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vbsp.exe"
+				"Vis"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vvis.exe"
+				"Light"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\vrad.exe"
+				"GameExeDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer"
+				"MapDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcesdk_content\sourcetest\mapsrc"
+				"BSPDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\maps"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+				"Previous"		"0"
+			}
+		}
+		"Garry's Mod"
+		{
+			"GameDir"		"D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2"
+			"Hammer"
+			{
+				"GameData0"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\base.fgd"
+				"GameData1"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\garrysmod.fgd"
+				"GameData2"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\halflife2.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\vbsp.exe"
+				"Vis"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\vvis.exe"
+				"Light"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\vrad.exe"
+				"GameExeDir"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod"
+				"MapDir"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\mapsrc"
+				"BSPDir"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\maps"
+				"PrefabDir"		"D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\Prefabs"
+				"CordonTexture"		"dev/dev_blendmeasure"
+				"MaterialExcludeCount"		"0"
+				"Previous"		"0"
+			}
+		}
+	}
+	"SDKVersion"		"5"
+}

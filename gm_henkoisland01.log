@@ -1,0 +1,254 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (2)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_stormfront_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_stormfront_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1500362 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 110 texinfos to 38
+Reduced 20 texdatas to 15 (519 bytes to 336)
+Writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+4 seconds elapsed
+
+
+
+4 threads
+reading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+reading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.prt
+3195 portalclusters
+8475 numportals
+0...1...2...3...4...5...6...7...8...9...100...1..
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_stormfront_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_stormfront_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1500426 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 110 texinfos to 38
+Reduced 20 texdatas to 15 (519 bytes to 336)
+Writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+reading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.prt
+3264 portalclusters
+8690 numportals
+0...1...2...3...4...5...6...7...8...9...100...1.
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_stormfront_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_stormfront_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1500458 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 110 texinfos to 38
+Reduced 20 texdatas to 15 (519 bytes to 336)
+Writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+reading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.prt
+3229 portalclusters
+8592 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_stormfront_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_stormfront_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1500442 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 111 texinfos to 36
+Reduced 20 texdatas to 15 (519 bytes to 336)
+Writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+reading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.prt
+1997 portalclusters
+5307 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1475 visible clusters (0.04%)
+Total clusters visible: 3981290
+Average clusters visible: 1993
+Building PAS...
+Average clusters audible: 1995
+visdatasize:1013925  compressed from 1022464
+writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+4392 faces
+29733824 square feet [4281670656.00 square inches]
+29 Displacements
+2473107 Square Feet [356127520.00 Square Inches]
+4392 patches before subdivision
+15178 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2031679, max 956
+transfer lists:  15.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3149, 3935, 1162)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(934, 1183, 304)
+Build Patch/Sample Hash Table(s).....Done<0.0155 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 32/16384         384/196608   ( 0.2%) 
+brushsides             236/163840       1888/1310720  ( 0.1%) 
+planes                 378/65536        7560/1310720  ( 0.6%) 
+vertexes              3283/65536       39396/786432   ( 5.0%) 
+nodes                 3839/65536      122848/2097152  ( 5.9%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos               29/0            5104/0        ( 0.0%) 
+disp_verts            8381/0          167620/0        ( 0.0%) 
+disp_tris            14848/0           29696/0        ( 0.0%) 
+disp_lmsamples      334291/0          334291/0        ( 0.0%) 
+faces                 4392/65536      245952/3670016  ( 6.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              143/65536        8008/3670016  ( 0.2%) 
+leaves                3841/65536      122912/2097152  ( 5.9%) 
+leaffaces             4411/65536        8822/131072   ( 6.7%) 
+leafbrushes           2445/65536        4890/131072   ( 3.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            18362/512000      73448/2048000  ( 3.6%) 
+edges                 9322/256000      37288/1024000  ( 3.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips              7/32768          70/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            93/65536         186/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      596836/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1013925/16777216 ( 6.0%) 
+entdata               [variable]        2870/393216   ( 0.7%) 
+LDR ambient table     3841/65536       15364/262144   ( 5.9%) 
+HDR ambient table     3841/65536       15364/262144   ( 5.9%) 
+LDR leaf ambient     18054/65536      505512/1835008  (27.5%) 
+HDR leaf ambient      3841/65536      107548/1835008  ( 5.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149502/0        ( 0.0%) 
+physics               [variable]     1500442/4194304  (35.8%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 8944
+Writing d:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\bin\hammerplusplus\gm_henkoisland01.bsp
+26 seconds elapsed
